@@ -1,0 +1,15 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+.venv_dashboard/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.validation_tmp/
+.migration_state.json
+deployment_validation.json
+dashboard/ui_data_hashes_before.json
+dashboard/ui_validation_result.json
+*.log
